@@ -1,4 +1,7 @@
-# tewFA
+# tewFA [DEPRECATED]
+> [!WARNING]
+>
+> tewFA is deprecated. Use the new and improved [Authie](https://github.com/asboy2035/authie) instead. Don't forget to download your data to import into Authie!
 ### 2FA for everyone.
 
 tewFA is a web-based 2FA application that runs on any device that connects to the internet.*
